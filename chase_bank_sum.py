@@ -1,5 +1,5 @@
 """
-paranoid script to make sure line items sum to expected total on bank statement
+script to sum line items from Chase bank statement
 """
 import sys
 
